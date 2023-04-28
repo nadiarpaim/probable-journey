@@ -18,3 +18,5 @@ Title Case is when all words begin with a capital letter.
 - lower case
 - UPPER CASE
 - Title Case
+
+You are gonna have to use split and loops.
